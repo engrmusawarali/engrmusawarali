@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 I'm Musawar Ali from Pakistan, pursuing a PhD in Computer Vision from the University of Bologna (UniBI), Bologna, Italy.
 
 - 🔭 I’m currently working on Diffusion Models and Computer Vision
