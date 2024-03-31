@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm Musawar Ali from Pakistan, pursuing a PhD in Computer Vision from the University of Bologna (UniBI), Bologna, Italy.
+I'm Musawar Ali from Pakistan, pursuing a PhD in Computer Vision from the University of Bologna (UniBO), Bologna, Italy.
 
 - 🔭 I’m currently working on Diffusion Models, Vision Transformers and Computer Vision
 - 🌱 I'm Currently doing PhD under the supervision of Prof. Luigi Di Stefano and Prof. Samuele Salti @CVLAB-Unibo
